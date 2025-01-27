@@ -1,0 +1,31 @@
+
+* {
+ box-sizing: border-box;
+
+  }
+  
+  body {
+    height: 100%;
+    background-image: url(image/darkgreen.jpg);
+    margin-top: 70px;
+  }
+  
+  .background {
+    display: flex;
+    justify-content: center;
+    }
+  
+  .container {
+    width: 70%;
+    background-color: rgb(47, 78, 79);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+  }
+  
+  nav li .articles {
+    color: black;
+    padding: 5px;
+    border-radius: 4px;
+}

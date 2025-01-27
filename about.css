@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightcyan;
+    box-sizing: border-box;
+}
+
+nav li .about {
+    color: black;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.container {
+    margin-top: 80px;
+    background-color: rgb(147, 182, 182);
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.me   {
+    background-color:rgb(147, 182, 182);
+    text-align: center;
+    padding: 20px;
+}
+
+.me img {
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+    
+}
+.text {
+    background-color: aliceblue;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 7px;
+    box-shadow: 0 0 4px 2px rgb(41, 68, 70);
+}
+
